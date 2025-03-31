@@ -157,10 +157,10 @@ public class CastingExample {
 
 ## **📚 Additional Resources**
 - [Java Constructors – Oracle Docs](https://docs.oracle.com/javase/tutorial/java/javaOO/constructors.html)  
-- [Java this Keyword – GeeksForGeeks](https://www.geeksforgeeks.org/this-keyword-in-java/)  
+- [Java this Keyword – GeeksForGeeks](https://www.geeksforgeeks.org/this-reference-in-java/)  
 - [Static Keyword in Java](https://www.baeldung.com/java-static)  
 - [Java Nested Classes – Oracle Docs](https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html)  
-- [Lesson Slides: Java Classes](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-11_Java_Classes/blob/main/Java%20-%20Classes.pdf)  
+- [Lesson Slides: Java Classes](_will be added later_)
 - [Video Lesson Recording](_will be added later_)
 
 ---
