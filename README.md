@@ -160,8 +160,8 @@ public class CastingExample {
 - [Java this Keyword – GeeksForGeeks](https://www.geeksforgeeks.org/this-reference-in-java/)  
 - [Static Keyword in Java](https://www.baeldung.com/java-static)  
 - [Java Nested Classes – Oracle Docs](https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html)  
-- [Lesson Slides: Java Classes](_will be added later_)
-- [Video Lesson Recording](_will be added later_)
+- [Lesson Slides: Java Classes](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-11_Visibility_Modifiers/blob/main/_Java%20-%20Classes.pdf)
+- [Video Lesson Recording](https://us06web.zoom.us/rec/share/UmkpV6tRK2eT4mIeEYSU6iBl8ZEzftkuZ_m4k5bFtznessO1gTWmEW6Q419-5w8T.PcnmnoWIDcdLFAVW?startTime=1743406592000)
 
 ---
 
